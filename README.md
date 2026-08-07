@@ -1,15 +1,11 @@
-<h1 align="center">
-  Hi, I'm Haifa 🙋🏻‍♀️
-  <img src="./assets/waving.gif" width="40" alt="Waving Hand">
-</h1>
+<div align="center">
 
-<p align="center">
+# Hi, I'm Haifa 🙋🏻‍♀️
+
   <b>Data Science | Machine Learning | AI</b>
-</p>
+</div>
 
-<p align="center">
-  I enjoy solving real-world problems with data and turning ideas into practical solutions.
-</p>
+
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python" width="30" height="30" alt="Python">
@@ -31,7 +27,7 @@ Explore my projects [here](https://github.com/Haifald?tab=repositories)
 
 ## Let's Connect
 
-Feel free to reach out for collaborations, project ideas, or just to talk data.
+💬 Feel free to reach out for collaborations, project ideas, or just to talk data.
 
-- [LinkedIn](https://www.linkedin.com/in/haifald/)
-- [Email](mailto:haifaaldum@gmail.com)
+-  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [haifaaldum@gmail.com](mailto:haifaaldum@gmail.com)
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> [@Haifald](https://www.linkedin.com/in/Haifald/)
