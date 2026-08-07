@@ -1,7 +1,6 @@
 ### Hi, I'm Haifa
 
-![Waving Hand](https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif)
-
+![Waving Hand](https://raw.githubusercontent.com/GaneshBhattarai/GaneshBhattarai/main/waving.gif)
 Data Science | Machine Learning | AI
 
 I love converting raw, messy data into models that actually hold up.
