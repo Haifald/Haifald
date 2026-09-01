@@ -1,33 +1,38 @@
 <div align="center">
 
-# Hi, I'm Haifa 🙋🏻‍♀️
+<h1>Hi, I'm Haifa 👋🏻</h1>
 
-  <b>Data Science | Machine Learning | AI</b>
+<h3>Data Science · AI Engineering</h3>
+
 </div>
-
-
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python" width="30" height="30" alt="Python">
-  <img src="https://cdn.simpleicons.org/mysql" width="30" height="30" alt="SQL">
-  <img src="https://cdn.simpleicons.org/pandas" width="30" height="30" alt="Pandas">
-  <img src="https://cdn.simpleicons.org/numpy" width="30" height="30" alt="NumPy">
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="30" height="30" alt="Scikit-learn">
-  <img src="https://cdn.simpleicons.org/jupyter" width="30" height="30" alt="Jupyter">
-  <img src="https://cdn.simpleicons.org/git" width="30" height="30" alt="Git">
-</p>
 
 ---
 
-## Featured Projects
+## Projects
 
-Explore my projects [here](https://github.com/Haifald?tab=repositories)
+Explore my projects [here](YOUR_REPOSITORIES_LINK).
+
+---
+
+## Working With
+
+**Data & Machine Learning**  
+Python · SQL · Pandas · NumPy · scikit-learn · Matplotlib
+
+**Deep Learning**  
+PyTorch · TensorFlow · Keras
+
+**Generative AI & Retrieval**  
+LLMs · RAG · Embeddings · FAISS · Hugging Face
+
+**Engineering & Platforms**  
+FastAPI · Next.js · Flutter · Firebase · Google Cloud · BigQuery · Git
 
 ---
 
 ## Let's Connect
 
-💬 Feel free to reach out for collaborations, project ideas, or just to talk data.
+💬 Always happy to connect over data, AI, and interesting project ideas.
 
--  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [haifaaldum@gmail.com](mailto:haifaaldum@gmail.com)
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> [@Haifald](https://www.linkedin.com/in/Haifald/)
+- <img src="https://img.icons8.com/fluency/20/email.png" width="20"/> [haifaaldum@gmail.com](mailto:haifaaldum@gmail.com)
+- <img src="https://img.icons8.com/color/20/linkedin.png" width="20"/> [@Haifald](https://www.linkedin.com/in/haifald/)
