@@ -10,7 +10,7 @@
 
 ## Projects
 
-Explore my projects [here](YOUR_REPOSITORIES_LINK).
+Explore my projects [here](https://github.com/Haifald?tab=repositories).
 
 ---
 
